@@ -6,14 +6,21 @@ author_profile: true
 ---
 
 ---
-These talks were given as part of courses or seminars.
-Handwritten notes which were written down as a part of the talks are attached, but are missing quite a bit of the context which was provided verbally. Not particularly useful.
+- **Research Talks**
+  - Nov 2025: *Thom spectra revisited*, University of Minnesota, Topology Seminar
+  - Nov 2025: *Thom spectra revisited*, Binghamton University, BUGCAT Conference
 
-1. [A categorical version of Brown's Representability Theorem](http://siddharth64.github.io/files/A categorical version of Brown's representability.pdf): Based on Heller's paper.
-2. [Elementary Topoi.pdf](http://siddharth64.github.io/files/Elementary Topoi.pdf): A basic introduction to Elementary topi, generalized elements and Lawvere's ETCS.  
-
-3. [Hilbert's 17th problem](http://siddharth64.github.io/files/Hilbert's 17th problem.pdf): Based off of the proof given in Marker's **Model Theory: An Introduction." This was a collaborative talk, but this just includes my part in it.
-
-4. [The Joyal Model structure on simplicial sets](http://siddharth64.github.io/files/The Joyal Model structure.pdf): Based on Chris Kapulkin's notes on higher category theory.
+- **Selected Expository Talks**
+  - Nov 2019: *Categorical Semantics for Intuitionistic Logic*
+  - Dec 2020: *Elementary Topoi*
+  - Mar 2021: *On Hilbert’s 17th problem using Model Theory*
+  - June 2021: *The Joyal Model Structure*, Western University, Homotopy Theory Seminar
+  - April 2022: *Elliptic Curves, Formal Groups and Cohomology Theories*
+  - Sep 2022: *Stable Homotopy Theory: History and Motivation*, University at Buffalo, Graduate Seminar
+  - March 2023: *Stacks in Homotopy Theory*, University of Rochester, Topology Seminar
+  - April 2023: *Galois Theory and Covering Spaces*, University of Rochester, Graduate Seminar
+  - Sep 2023: *On the Hopf Invariant One problem*, University at Buffalo, Graduate Seminar
+  - Dec 2023: *Combinatorial Species: Investigating the zoo of structures*, University of Rochester, Graduate Seminar
+  - Dec 2025: *Formal Groups and Cohomology Theories*, University of Rochester, Graduate Seminar
 
 
