@@ -5,4 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Working on it!
+Work in Progress:
+
+1. Monoidality of  Parametrized (Un)straightening (joint with Ryan Quinn and Qi Zhu)
