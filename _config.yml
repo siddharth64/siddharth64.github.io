@@ -60,7 +60,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -110,7 +110,7 @@ author:
   Mathoverflow     : "https://mathoverflow.net/users/57193/siddharth64" 
   steam            :
   tumblr           :
-  twitter          : "SiddharthGurum2"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
